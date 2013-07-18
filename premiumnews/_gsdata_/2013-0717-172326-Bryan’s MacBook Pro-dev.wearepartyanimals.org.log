@@ -1,0 +1,15 @@
+2013-07-17 17:23:26: -- dev.wearepartyanimals.org: ANALYSIS started by User on 'Bryan’s MacBook Pro' (GoodSync 4.1.9.0)
+2013-07-17 17:23:26: /Users/bryanduckworth/Sites/WAPA/premiumnews <-> ftp://bryanduckworth.com/dev.wearepartyanimals.org/wp-content/themes/premiumnews
+2013-07-17 17:23:26: L: Files: 716 (excluded 3). Folders: 26 (excluded 1). /dev/disk0s2 HFS, Free: 565637M, Total: 749296M
+2013-07-17 17:23:31: R: Files: 716 (excluded 0). Folders: 26 (excluded 1). FTP: DreamHost FTP Server
+2013-07-17 17:23:31: Changes: 1, Conflicts: 0, CopyTime: 0, CopyState: 0/0, Errors: 0
+2013-07-17 17:23:31: Left to Right: Copy File: 1 
+2013-07-17 17:23:31: -- Analysis Completed. Time 00:00:05, Speed: 149 files/s
+2013-07-17 17:23:31: 
+2013-07-17 17:23:33: == dev.wearepartyanimals.org: SYNC started by User on 'Bryan’s MacBook Pro'
+2013-07-17 17:23:33: /Users/bryanduckworth/Sites/WAPA/premiumnews <-> ftp://bryanduckworth.com/dev.wearepartyanimals.org/wp-content/themes/premiumnews
+2013-07-17 17:23:33: Copy Over '/Users/bryanduckworth/Sites/WAPA/premiumnews/styles/style.css' -> 'ftp://bryanduckworth.com/dev.wearepartyanimals.org/wp-content/themes/premiumnews/styles/style.css'
+2013-07-17 17:23:33: Save State File ftp://bryanduckworth.com/dev.wearepartyanimals.org/wp-content/themes/premiumnews/_gsdata_/_file_state_v4._gs
+2013-07-17 17:23:34: Items Synced OK: 1, Errors: 0
+2013-07-17 17:23:34: == Sync Completed. Time: 00:00:02, Speed: 6199/s (7787/s)
+2013-07-17 17:23:34: 

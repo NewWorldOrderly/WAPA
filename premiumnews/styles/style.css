@@ -101,6 +101,8 @@ body {
     background:url('/wp-content/themes/premiumnews/images/lander/WAPA-Lander-bg.jpg');
     background-size: 100%;
     margin:0;
+    background-position: top center;
+    background-attachment: fixed;
 }
 
 a {color:white;}
